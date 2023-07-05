@@ -1,0 +1,10 @@
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C#\week8\F74109016_W8_practice_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

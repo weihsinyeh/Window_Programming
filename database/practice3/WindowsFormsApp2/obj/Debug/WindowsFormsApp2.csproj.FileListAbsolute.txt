@@ -1,0 +1,12 @@
+E:\C#\database\practice3\WindowsFormsApp2\bin\Debug\Database1.mdf
+E:\C#\database\practice3\WindowsFormsApp2\bin\Debug\Database1_log.ldf
+E:\C#\database\practice3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\C#\database\practice3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\C#\database\practice3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\C#\database\practice3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\C#\database\practice3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\C#\database\practice3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\C#\database\practice3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\C#\database\practice3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\C#\database\practice3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\C#\database\practice3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

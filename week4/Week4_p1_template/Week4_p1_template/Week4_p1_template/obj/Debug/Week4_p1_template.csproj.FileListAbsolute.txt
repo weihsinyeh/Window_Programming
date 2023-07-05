@@ -1,0 +1,14 @@
+C:\Users\YehWeiHsin\Downloads\Week4_p1_template\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.exe.config
+C:\Users\YehWeiHsin\Downloads\Week4_p1_template\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.exe
+C:\Users\YehWeiHsin\Downloads\Week4_p1_template\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.pdb
+C:\Users\YehWeiHsin\Downloads\Week4_p1_template\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.csprojAssemblyReference.cache
+C:\Users\YehWeiHsin\Downloads\Week4_p1_template\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.csproj.CoreCompileInputs.cache
+C:\Users\YehWeiHsin\Downloads\Week4_p1_template\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.exe
+C:\Users\YehWeiHsin\Downloads\Week4_p1_template\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.pdb
+E:\C#\作業二\Week4_p1_template\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.csprojAssemblyReference.cache
+E:\C#\作業二\Week4_p1_template\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.csproj.CoreCompileInputs.cache
+E:\C#\作業二\Week4_p1_template\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.exe
+E:\C#\作業二\Week4_p1_template\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.pdb
+E:\C#\作業二\Week4_p1_template\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.exe.config
+E:\C#\作業二\Week4_p1_template\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.exe
+E:\C#\作業二\Week4_p1_template\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.pdb

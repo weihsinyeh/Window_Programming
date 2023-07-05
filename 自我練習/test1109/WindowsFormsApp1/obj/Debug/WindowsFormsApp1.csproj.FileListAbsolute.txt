@@ -1,0 +1,5 @@
+E:\C#\自我練習\test1109\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\C#\自我練習\test1109\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\C#\自我練習\test1109\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C#\自我練習\test1109\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\C#\自我練習\test1109\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

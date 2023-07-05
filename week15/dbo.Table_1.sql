@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[姓名] NVARCHAR(50) NOT NULL PRIMARY KEY, 
+    [學號] NVARCHAR(50) NOT NULL, 
+    [系級] NVARCHAR(MAX) NOT NULL
+)

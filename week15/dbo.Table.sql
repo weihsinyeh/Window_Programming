@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Table1]
+(
+	[學號] NVARCHAR(50) NOT NULL PRIMARY KEY, 
+    [宿舍] NVARCHAR(50) NOT NULL
+)
