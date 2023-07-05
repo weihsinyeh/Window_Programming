@@ -1,0 +1,10 @@
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\bin\Debug\ConnectionDemo1.exe.config
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\bin\Debug\ConnectionDemo1.exe
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\bin\Debug\ConnectionDemo1.pdb
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\obj\x86\Debug\ConnectionDemo1.csprojAssemblyReference.cache
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\obj\x86\Debug\ConnectionDemo1.Form1.resources
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\obj\x86\Debug\ConnectionDemo1.Properties.Resources.resources
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\obj\x86\Debug\ConnectionDemo1.csproj.GenerateResource.cache
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\obj\x86\Debug\ConnectionDemo1.csproj.CoreCompileInputs.cache
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\obj\x86\Debug\ConnectionDemo1.exe
+C:\Users\HoeYuan\Desktop\ch15\ch15\ConnectionDemo1\obj\x86\Debug\ConnectionDemo1.pdb

@@ -1,0 +1,15 @@
+D:\ncku_school\開課課程\10901\Abstract\Abstract_1\Abstract\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\Abstract\Abstract_1\Abstract\Abstract\obj\Debug\Abstract.Form1.resources
+D:\ncku_school\開課課程\10901\Abstract\Abstract_1\Abstract\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\Abstract\Abstract_1\Abstract\Abstract\obj\Debug\Abstract.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\Abstract\Abstract_1\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\bin\Debug\Abstract.exe.config
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\bin\Debug\Abstract.exe
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\bin\Debug\Abstract.pdb
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\obj\Debug\Abstract.Form1.resources
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\obj\Debug\Abstract.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\obj\Debug\Abstract.exe
+D:\ncku_school\開課課程\10901\Abstractdemo\Abstract_1\Abstract_v1\Abstract\obj\Debug\Abstract.pdb
