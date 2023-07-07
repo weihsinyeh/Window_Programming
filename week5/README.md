@@ -1,4 +1,5 @@
-# Homework 1 : 替換式密碼
+#Week 5
+## Homework 1 : 替換式密碼
 
 <img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/7d268674-a52e-4cdf-b1d2-c69c3da1bf9c">
 
@@ -13,8 +14,11 @@
 <img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/c8c49381-0d8c-4cd2-bc49-49239b104a53">
 
 <img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/b436e34a-1768-4f73-8878-535161034913">
-
-# Homework 2 : 電子雞
+### Result 
+<img width="144" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/afb352ef-cfe3-40ec-be02-8c8342c228dd">
+<img width="144" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/555a49d1-7911-42dc-9366-bfcb87f0f3b3">
+<img width="171" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/4d6f5289-b6d3-41a6-8cf9-2229ae65c3ad">
+## Homework 2 : 電子雞
 
 <img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/2b0e40eb-cf14-4661-a2cc-785c1c3ebd46">
 
