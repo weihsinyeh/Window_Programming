@@ -18,9 +18,12 @@
 
 ### Result 
 
-<img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/afb352ef-cfe3-40ec-be02-8c8342c228dd">
+<img width="442" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/43f5b8bb-5ee3-40ef-8421-1f207ca6e81e">
 
-<img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/555a49d1-7911-42dc-9366-bfcb87f0f3b3">
+<img width="509" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/2aff543c-e0af-45d5-b8a1-c02ff8618bf6">
+
+<img width="399" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/05925fa8-f80f-4c6c-af53-eba74d39c594">
+
 
 
 
