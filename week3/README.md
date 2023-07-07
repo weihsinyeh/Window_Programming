@@ -1,13 +1,17 @@
-Practice 1 :
+## Week 3-1:Calandar 
 
-<img width="269" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/a43945ab-c1d9-440d-8c11-669cf3686ba7">
+![](https://hackmd.io/_uploads/SkOxn1EF3.png)
 
-<img width="224" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/695f393a-0f88-4d79-8d4e-88c12b407891">
+![](https://hackmd.io/_uploads/Bkm-nyVF3.png)
 
-<img width="306" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/429419e3-1a01-4043-963b-730ee0f3e321">
+### Result : 
+![](https://hackmd.io/_uploads/Syxla14Yn.png)
 
-Practice 2 : 
 
-<img width="290" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/7af443c5-300e-4461-b7cc-cb12d5a08d5b">
+## Week 3-2 : 踩地雷
+![](https://hackmd.io/_uploads/r1qKn8rK2.png)
 
+![](https://hackmd.io/_uploads/S1oXnyNF3.png)
+### Result : 
+![](https://hackmd.io/_uploads/SJrZTkNth.png)
 
