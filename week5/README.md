@@ -18,11 +18,11 @@
 
 ### Result 
 
-<img width="144" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/afb352ef-cfe3-40ec-be02-8c8342c228dd">
+<img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/afb352ef-cfe3-40ec-be02-8c8342c228dd">
 
-<img width="144" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/555a49d1-7911-42dc-9366-bfcb87f0f3b3">
+<img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/555a49d1-7911-42dc-9366-bfcb87f0f3b3">
 
-<img width="171" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/4d6f5289-b6d3-41a6-8cf9-2229ae65c3ad">
+
 
 ## Homework 2 : 電子雞
 
@@ -55,11 +55,11 @@
 <img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/071180bd-953d-46d9-9dca-2e39ac665bc4">
 
 ### Result 
-<img width="162" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/20d4dff4-2d40-4ecf-ab2e-4f789da4e663">
+<img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/20d4dff4-2d40-4ecf-ab2e-4f789da4e663">
 
-<img width="160" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/e646c040-96e0-4156-bb01-5f42279034c3"> 
+<img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/e646c040-96e0-4156-bb01-5f42279034c3"> 
 
-<img width="160" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/43bc81e4-7950-4384-8f6f-6a4cf00a3342">
+<img width="793" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/43bc81e4-7950-4384-8f6f-6a4cf00a3342">
 
 
 
