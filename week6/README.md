@@ -1,5 +1,5 @@
 # Week 6
-## Homework1 
+## Homework1 - 七段顯示器
 <img width="786" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/2df9b6e5-4a8d-4ee6-8f72-07918e185964">
 
 
