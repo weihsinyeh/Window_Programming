@@ -2,7 +2,8 @@
 from 助教PPT
 ## homework1 : 21 點
 
-<img width="757" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/65d67faa-c334-43d2-a99e-699bacccc52b">
+<img width="960" alt="投影片1" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/684cf020-3154-4580-944d-a8cdcb0b8d13">
+
 
 <img width="758" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/5094d9e6-bb74-4dbf-8c47-67c3b94628c4">
 
