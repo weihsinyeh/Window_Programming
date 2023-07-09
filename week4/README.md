@@ -4,22 +4,17 @@ from 助教PPT
 
 <img width="960" alt="投影片1" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/684cf020-3154-4580-944d-a8cdcb0b8d13">
 
+<img width="960" alt="投影片2" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/16420589-045e-43ad-87c3-93006e314c5e">
 
-<img width="758" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/5094d9e6-bb74-4dbf-8c47-67c3b94628c4">
+<img width="960" alt="投影片3" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/247acd7f-de46-48a8-9567-461ac291507e">
 
-<img width="800" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/7f1c9ff5-cc84-4298-8cc9-8c2979e492f5">
-
-<img width="757" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/82128b04-b874-4ec7-97cf-917fdfa83b27">
-
-<img width="780" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/374e86ef-2561-4e10-9f5b-c1cc2f3b9943">
-
-<img width="782" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/d2b3ee07-c4da-4ef5-88e2-515ee8a49bbe">
-
-<img width="763" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/029e344e-f6c9-4784-97b5-f246abf631c2">
-
-<img width="794" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/548c0ff9-d3cf-49dd-a781-89d4bea6555d">
-
-<img width="757" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/41a739af-9d94-4820-a702-90d119ea3aa2">
+<img width="960" alt="投影片4" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/99143edf-64ce-4142-abd9-f18c49c59251">
+<img width="960" alt="投影片5" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/23d35344-bf65-4a5c-b920-88fa9fd11bad">
+<img width="960" alt="投影片6" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/e208fe15-134b-44bf-933a-dfa38a033f9c">
+<img width="960" alt="投影片7" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/ced7887a-b155-4752-8e1e-3f6531d8eb5b">
+<img width="960" alt="投影片8" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/cee26764-006d-47cf-8ac4-a91b70a848e6">
+<img width="960" alt="投影片9" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/0f5016e4-9b1a-49e2-8066-f1ab55b3b9a7">
+<img width="960" alt="投影片10" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/f2041afc-bd6a-44f3-955c-81c6e77a18fa">
 
 ## homework2 : 迷宮
 
