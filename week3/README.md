@@ -1,9 +1,8 @@
 # Week3
 ## Week 3-1:Calandar 
-![image](https://github.com/weihsinyeh/Window_Programming/assets/90430653/8b865f49-1833-41e8-aeb2-e0084142c4e3)
+![投影片1](https://github.com/weihsinyeh/Window_Programming/assets/90430653/90fbc3e7-3964-4a2c-8571-6f81d485bad8)
 
 
-![image](https://github.com/weihsinyeh/Window_Programming/assets/90430653/9b8271d2-6856-4843-b29d-d63cacce5627)
 
 
 ### Result : 
