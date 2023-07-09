@@ -17,8 +17,14 @@ from 助教PPT
 <img width="960" alt="投影片10" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/f2041afc-bd6a-44f3-955c-81c6e77a18fa">
 
 ## homework2 : 迷宮
+<img width="960" alt="投影片11" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/acfdb1a6-1bb6-4c50-9f9d-7e2dbb5f406f">
+<img width="960" alt="投影片12" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/1b73bdb8-1ed5-4ee8-8818-4ebffb90cbdd">
+<img width="960" alt="投影片13" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/38a71549-7c90-4eb1-830c-ff269e143e03">
+<img width="960" alt="投影片14" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/d76f3d04-f33f-4458-9c14-9914550893e6">
+<img width="960" alt="投影片15" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/03ec023b-ad6f-4eae-b5b1-af7fe41856b5">
+<img width="960" alt="投影片16" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/91ee9035-4f8f-480d-9113-f827474b1c1d">
 
-![image](https://github.com/weihsinyeh/Window_Programming/assets/90430653/e5b09099-f2e0-4afc-8d7e-ddd0b03053ad)
+### Result
 
 ![image](https://github.com/weihsinyeh/Window_Programming/assets/90430653/c94510e1-bae1-4d45-ae38-4f1172beb405)
 
