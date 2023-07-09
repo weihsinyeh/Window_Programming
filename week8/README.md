@@ -1,5 +1,6 @@
 # Week 8
-## Homework 1
+## Homework 1 - 記憶翻牌
+
 <img width="960" alt="投影片1" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/82e5bbd2-be40-4a55-b560-853351475123">
 
 <img width="960" alt="投影片2" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/93bb89ab-ce10-454d-8c9b-5e7dc6fcdc5c">
@@ -26,7 +27,8 @@
 
 <img width="449" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/5513b2d1-7f63-4ad8-bb81-ffc04ea6fda7">
 
-## Homework 2
+## Homework 2 - 五子棋
+
 <img width="960" alt="投影片11" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/0fbc7391-5eb4-4312-aded-f51d15185230">
 
 <img width="960" alt="投影片12" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/28004764-45f8-404f-8f9d-91d4538be82a">
