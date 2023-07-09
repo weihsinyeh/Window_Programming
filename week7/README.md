@@ -1,5 +1,5 @@
 # Week 7
-## Homework 1
+## Homework 1 - A Tetris combined with 2048.
 <img width="829" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/4e971f9d-bc18-4e88-bce6-d2204bda8348">
 <img width="853" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/d44bf168-5580-469a-95c5-7aeaf876f1b8">
 <img width="829" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/35c75cc3-4fd0-4f20-8f50-201862d996c0">
@@ -9,7 +9,7 @@
 <img width="836" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/2bf6fd01-84ed-47d6-91d0-504c3c9384a9">
 <img width="839" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/7ac4b985-da96-4707-83fb-0041f464b863">
 
-## Homework 2
+## Homework 2 - 風水火
 <img width="829" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/d67597f8-076c-4a37-a76a-c301a05f2d65">
 <img width="829" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/73b9d427-149b-4d05-a36e-dc84212b0499">
 <img width="829" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/52f56ae3-2bfd-4210-ad1b-41d862cb18ce">
