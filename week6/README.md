@@ -25,7 +25,7 @@
 
 
 
-## Homework2
+## Homework2 - 迷因生產器
 <img width="786" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/2adc214e-3438-49d2-9cb7-110f36c6c84c">
 
 <img width="961" alt="image" src="https://github.com/weihsinyeh/Window_Programming/assets/90430653/b69646eb-750d-43d5-a958-6585f00e5b2c">
